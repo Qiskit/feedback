@@ -12,7 +12,7 @@ In this tab you can find useful information on a range of subjects, including:
 * 🛣 **Release Planning** - concise summary of ongoing planning of upcoming releases
 
 ## [💻 Code](https://github.com/qiskit-community/feedback)
-This is where you can find folders containing useful code/files from past Demo Days. This section may be expanded in future - let us know in the Discussions section what you would like to see!
+This is where you can find folders containing useful code/notes from past Demo Days when they become available. This section may be expanded in future - let us know in the Discussions section what you would like to see!
 
 ## [🗣 Discussions](https://github.com/qiskit-community/feedback/discussions)
 These discussions are where you can share suggestions for how the Qiskit products could be improved and discuss those improvements with the community, including members of the core Qiskit teams. Check out [Making Suggestions](#making-suggestions) to learn how to provide productive feedback.
