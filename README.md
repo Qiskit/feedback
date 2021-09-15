@@ -1,9 +1,18 @@
 # Qiskit public feedback discussions
 
-This repository is a central place for the community to keep up with the development of Qiskit and provide feedback on all aspects of the SDK. This repository currently has 2 main parts, and may expand in future:
+This repository is a central place for the community to keep up with the development of Qiskit and provide feedback on all aspects of the SDK. This repository currently has 3 main parts, and may expand in future:
 
 ## [📄 Wiki](https://github.com/qiskit-community/feedback/wiki)
-In this tab you can find useful information about upcoming releases, as well as the agenda and recordings of our fortnightly DemoDays
+In this tab you can find useful information on a range of subjects, including:
+
+* 🗣 **Communication Channels & Support** - summary of appropriate places to get help depending on your Qiskit needs
+* 👾 **DemoDays - keep track of the agendas** and recordings for past and future DemoDays
+* 🏃‍♂️ **Get Started with Quantum Computing** - if you're new to the Qiskit community start here!
+* 📙 **Jupyter Notebook Resources** - useful links to various Qiskit jupyter notebook collections
+* 🛣 **Release Planning** - concise summary of ongoing planning of upcoming releases
+
+## [💻 Code](https://github.com/qiskit-community/feedback)
+This is where you can find folders containing useful code/files from past Demo Days. This section may be expanded in future - let us know in the Discussions section what you would like to see!
 
 ## [🗣 Discussions](https://github.com/qiskit-community/feedback/discussions)
 These discussions are where you can share suggestions for how the Qiskit products could be improved and discuss those improvements with the community, including members of the core Qiskit teams. Check out [Making Suggestions](#making-suggestions) to learn how to provide productive feedback.
