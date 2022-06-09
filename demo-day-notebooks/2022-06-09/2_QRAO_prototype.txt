@@ -1,0 +1,3 @@
+QRAO prototype repo: https://github.com/qiskit-community/prototype-qrao
+
+tutorial noteboook: https://github.com/qiskit-community/prototype-qrao/blob/main/docs/tutorials/01_getting_started.ipynb
