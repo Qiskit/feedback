@@ -1,4 +1,4 @@
-# Qiskit public feedback discussions
+# Qiskit public feedback & discussions
 
 This repository is a central place for the community to keep up with the development of Qiskit and provide feedback on all aspects of the SDK. This repository currently has 3 main parts, and may expand in future:
 
