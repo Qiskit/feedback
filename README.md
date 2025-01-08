@@ -9,7 +9,6 @@ In this tab you can find useful information on a range of subjects, including:
 * 👾 **DemoDays - keep track of the agendas** and recordings for past and future DemoDays
 * 🏃‍♂️ **Get Started with Quantum Computing** - if you're new to the Qiskit community start here!
 * 📙 **Jupyter Notebook Resources** - useful links to various Qiskit jupyter notebook collections
-* 🛣 **Release Planning** - concise summary of ongoing planning of upcoming releases
 
 ## [💻 Code](https://github.com/qiskit-community/feedback)
 This is where you can find folders containing useful code/notes from past Demo Days when they become available. This section may be expanded in future - let us know in the Discussions section what you would like to see!
